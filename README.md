@@ -91,6 +91,9 @@ For example, below we have pasted filepaths to two files in this dataset:
 ## Database schema
 
 The database consists of **5 tables** organized into a **star schema**. <br/>
+
+![Sparkify Database Diagram](images/SparkifyERD.png)
+
 If you want to read more about star schema, please follow [this link](https://en.wikipedia.org/wiki/Star_schema).
 
 ### Fact table
